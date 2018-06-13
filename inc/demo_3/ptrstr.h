@@ -1,0 +1,1 @@
+int ptrstr_test();

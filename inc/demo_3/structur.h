@@ -1,0 +1,2 @@
+int structure_test();
+

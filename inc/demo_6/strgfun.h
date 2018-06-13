@@ -1,0 +1,1 @@
+int strgfun_test();

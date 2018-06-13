@@ -1,0 +1,2 @@
+int cctypes_test();
+

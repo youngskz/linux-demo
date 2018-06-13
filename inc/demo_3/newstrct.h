@@ -1,0 +1,1 @@
+int newstrct_test();

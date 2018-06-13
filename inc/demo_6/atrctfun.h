@@ -1,0 +1,1 @@
+int atrctfun_test();

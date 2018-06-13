@@ -1,0 +1,2 @@
+int twoarg_test();
+

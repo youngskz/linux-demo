@@ -1,0 +1,2 @@
+int pointer_test();
+

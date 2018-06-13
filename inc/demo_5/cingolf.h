@@ -1,0 +1,1 @@
+int cingolf_test();

@@ -1,0 +1,2 @@
+int ourfunc_test();
+

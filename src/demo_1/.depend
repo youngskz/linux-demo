@@ -1,0 +1,5 @@
+/home/wenyu/apps/linux-demo/src/demo_1/convert.o: convert.cpp
+/home/wenyu/apps/linux-demo/src/demo_1/limits.o: limits.cpp
+/home/wenyu/apps/linux-demo/src/demo_1/myfirst.o: myfirst.cpp
+/home/wenyu/apps/linux-demo/src/demo_1/ourfunc.o: ourfunc.cpp
+/home/wenyu/apps/linux-demo/src/demo_1/sqrt.o: sqrt.cpp

@@ -1,0 +1,1 @@
+int lotto_test();

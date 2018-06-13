@@ -1,0 +1,2 @@
+int cinfish_test();
+

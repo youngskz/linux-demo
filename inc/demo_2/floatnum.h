@@ -1,0 +1,2 @@
+int floatnum_test();
+

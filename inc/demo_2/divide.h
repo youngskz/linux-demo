@@ -1,0 +1,2 @@
+int divide_test();
+

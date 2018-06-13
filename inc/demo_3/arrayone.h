@@ -1,0 +1,2 @@
+int arrayone_test();
+

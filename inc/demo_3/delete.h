@@ -1,0 +1,2 @@
+int delete_test();
+

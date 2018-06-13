@@ -1,0 +1,1 @@
+int arraynew_test();

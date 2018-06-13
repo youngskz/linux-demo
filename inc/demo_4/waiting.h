@@ -1,0 +1,2 @@
+int waiting_test();
+

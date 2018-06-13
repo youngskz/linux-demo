@@ -1,0 +1,2 @@
+int typecast_test();
+

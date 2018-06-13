@@ -1,0 +1,2 @@
+int arrstruct_test();
+

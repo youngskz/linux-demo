@@ -1,0 +1,7 @@
+/home/wenyu/apps/linux-demo/src/demo_6/arrfun.o: arrfun.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/atrctfun.o: atrctfun.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/lotto.o: lotto.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/strgback.o: strgback.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/strgfun.o: strgfun.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/travel.o: travel.cpp
+/home/wenyu/apps/linux-demo/src/demo_6/twoarg.o: twoarg.cpp

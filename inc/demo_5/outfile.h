@@ -1,0 +1,2 @@
+int outfile_test();
+

@@ -1,0 +1,2 @@
+int arith_test();
+

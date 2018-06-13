@@ -1,0 +1,2 @@
+int assign_test();
+

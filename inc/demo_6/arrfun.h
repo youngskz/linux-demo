@@ -1,0 +1,2 @@
+int arrfun_test();
+
