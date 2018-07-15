@@ -57,11 +57,37 @@
 #include	"demo_6/strgback.h"
 #include	"demo_6/travel.h"
 #include	"demo_6/atrctfun.h"
+#include	"demo_6/strctptr.h"
+#include	"demo_6/topfive.h"
+#include	"demo_6/arrobj.h"
+#include	"demo_6/recur.h"
+#include	"demo_6/ruler.h"
+#include	"demo_6/fun_ptr.h"
+#include	"demo_6/arfupt.h"
 
+#include	"demo_7/inline.h"
+#include	"demo_7/firstref.h"
+#include	"demo_7/secref.h"
+#include	"demo_7/swaps.h"
+#include	"demo_7/strtref.h"
+#include	"demo_7/strc_ref.h"
+#include	"demo_7/strquote.h"
+#include	"demo_7/filefunct.h"
+#include	"demo_7/left.h"
+#include	"demo_7/leftover.h"
+#include	"demo_7/funtemp.h"
+#include	"demo_7/twotemps.h"
+#include	"demo_7/twoswap.h"
+#include	"demo_7/tempover.h"
+#include	"demo_7/choices.h"
 
-#include <iostream>                           // a PREPROCESSOR directive
-using namespace std;                      // make definitions visible
+#include	"demo_8/newplace.h"
+#include	"demo_8/usenmsp.h"
 
+#include	"demo_9/usestok0.h"
+#include	"demo_9/usestok1.h"
+#include	"demo_9/usestok2.h"
+#include	"demo_9/stacker.h"
 
 int main()
 {
@@ -70,7 +96,8 @@ int main()
 	//ourfunc_test();
 	//convert_test();
 	//limits_test();
-
+	
+	// 处理数据
 	//hexoct1_test();
 	//hexoct2_test();
 	//floatnum_test();
@@ -80,7 +107,8 @@ int main()
 	//modulus_test();
 	//assign_test();
 	//typecast_test();
-
+	
+	// 复合类型
 	//arrayone_test();
 	//string_test();
 	//instr_test();
@@ -101,7 +129,8 @@ int main()
 	//delete_test();
 	//mixtypes_test();
 	//choices_test();
-
+	
+	// 循环和关系表达式  
 	//express_test();
 	//formore_test();
 	//compstr1_test();
@@ -109,20 +138,66 @@ int main()
 	//waiting_test();
 	//textin_test();
 	//nested_test();
-
+	
+	// 分支语句和逻辑运算符
 	//cctypes_test();
 	//switch_test();
 	//cinfish_test();
 	//cingolf_test();
 	//outfile_test();
 	//sumafile();
-
+	
+	// 函数
 	//twoarg_test();
 	//lotto_test();
 	//arrfun_test();
 	//strgfun_test();
 	//strgback_test();
 	//travel_test();
-	atrctfun_test();
+	//atrctfun_test();
+	//strctptr_test();
+	//topfive_test();
+	//arrobj_test();
+	//recur_test();
+	//rular_test();
+	//fun_ptr_test();
+	//arfupt_test();
+	
+
+	// 函数 (内联, 引用, 默认参数, 重载, 模板)
+	//inline_test();
+	//firstref_test();
+	//secref_test();
+	//swaps_test();
+	//strtref_test();
+	//strc_ref_test();
+	//strquote_test();
+	//filefunct_test();
+	//left_test();
+	//leftover_test();
+	//funtemp_test();
+	//twotemps_test();
+	//twoswap_test();
+	//tempover_test();
+	//choices2_test();
+
+	// 内存模型和命名空间
+	//newplace_test();
+	//usenmsp_test();
+
+	// 对象和类
+	//use_stock00_test();
+	//use_stock10_test();
+	//use_stock20_test();
+	//stack_test();
+
+	// 使用类
+
+	// 类和动态内存分配
+
+	// 类继承
+
+
 }
+
 

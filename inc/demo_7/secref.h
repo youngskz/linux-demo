@@ -1,0 +1,2 @@
+int secref_test();
+

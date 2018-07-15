@@ -1,0 +1,5 @@
+/home/wenyu/apps/linux-demo/src/demo_8/namesp.o: namesp.cpp \
+ /home/wenyu/apps/linux-demo/inc/demo_8/namesp.h
+/home/wenyu/apps/linux-demo/src/demo_8/newplace.o: newplace.cpp
+/home/wenyu/apps/linux-demo/src/demo_8/usenmsp.o: usenmsp.cpp \
+ /home/wenyu/apps/linux-demo/inc/demo_8/namesp.h

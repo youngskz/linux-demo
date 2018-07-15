@@ -1,0 +1,2 @@
+int filefunct_test();
+

@@ -1,0 +1,1 @@
+int strquote_test();

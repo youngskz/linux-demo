@@ -1,0 +1,2 @@
+int newplace_test();
+

@@ -1,0 +1,1 @@
+int strctptr_test();

@@ -1,0 +1,2 @@
+int inline_test();
+

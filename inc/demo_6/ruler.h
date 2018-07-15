@@ -1,0 +1,1 @@
+int rular_test();

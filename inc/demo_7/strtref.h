@@ -1,0 +1,2 @@
+int strtref_test();
+
