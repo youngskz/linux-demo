@@ -1,6 +1,0 @@
-/home/wenyu/apps/linux-demo/src/demo_5/cinfish.o: cinfish.cpp
-/home/wenyu/apps/linux-demo/src/demo_5/outfile.o: outfile.cpp
-/home/wenyu/apps/linux-demo/src/demo_5/cingolf.o: cingolf.cpp
-/home/wenyu/apps/linux-demo/src/demo_5/sumafile.o: sumafile.cpp
-/home/wenyu/apps/linux-demo/src/demo_5/cctypes.o: cctypes.cpp
-/home/wenyu/apps/linux-demo/src/demo_5/switch.o: switch.cpp

@@ -1,7 +1,0 @@
-/home/wenyu/apps/linux-demo/src/demo_4/express.o: express.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/compstr2.o: compstr2.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/formore.o: formore.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/textin.o: textin.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/waiting.o: waiting.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/nested.o: nested.cpp
-/home/wenyu/apps/linux-demo/src/demo_4/compstr1.o: compstr1.cpp

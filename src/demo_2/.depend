@@ -1,9 +1,0 @@
-/home/wenyu/apps/linux-demo/src/demo_2/floatnum.o: floatnum.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/assign.o: assign.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/typecast.o: typecast.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/modulus.o: modulus.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/arith.o: arith.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/hexoct1.o: hexoct1.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/fltadd.o: fltadd.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/hexoct2.o: hexoct2.cpp
-/home/wenyu/apps/linux-demo/src/demo_2/divide.o: divide.cpp
