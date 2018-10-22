@@ -88,7 +88,7 @@
 #include	"demo_9/usestok1.h"
 #include	"demo_9/usestok2.h"
 #include	"demo_9/stacker.h"
-deef
+
 int main()
 {
 	//myfirst();
